@@ -1,4 +1,5 @@
 
+
 public class BankRewards implements IPayment {
 
 	@Override
@@ -10,7 +11,7 @@ public class BankRewards implements IPayment {
 	@Override
 	public void collectPayment() {
 		System.out.println("Pagamento realizado com sucesso!");
-		System.out.println("Pontuação creditada no Programa Rewards!");
+		System.out.println("PontuaÃ§Ã£o creditada no Programa Rewards!");
 
 	}
 
