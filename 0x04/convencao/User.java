@@ -8,15 +8,15 @@ public class UsersModels {
 
 final static int IDADE_MINIMA = 18;
 
-// função que coleta todos os users
+// funÃ§Ã£o que coleta todos os users
 
 public FetchUsers() { return [];}
 
-// função que coleta todos os users
+// funÃ§Ã£o que coleta todos os users
 
 public AllUsers() {return [];}
 
-// função que coleta todos os users
+// funÃ§Ã£o que coleta todos os users
 
 public getUsers() {return [];}
 
