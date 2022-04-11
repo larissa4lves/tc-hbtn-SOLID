@@ -1,5 +1,6 @@
 public class Comments {
 
+   
     // Copyright (C) 2022 by CleanCode.
     // Released under the terms of the GNU General Public License version 2 or later.
 
@@ -16,7 +17,7 @@ public class Comments {
     //   // some business logic here
     //}
 
-    // TODO Este métod deve ser removido
+    // TODO Este mÃ©tod deve ser removido
     public void check(){
         return;
     }
@@ -42,4 +43,4 @@ public class Comments {
 }
 
 
-- Após a correção, salve a classe no diretório raiz do projeto o arquivo `Comments.java`
+- ApÃ³s a correÃ§Ã£o, salve a classe no diretÃ³rio raiz do projeto o arquivo `Comments.java`
